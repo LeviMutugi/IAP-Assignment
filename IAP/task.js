@@ -1,3 +1,6 @@
+//SCT211-0067/2022
+//Levi Mutugi Mutharimi
+
 const submit = document.getElementById('submit');
 const newTaskInput = document.getElementById('task');
 
